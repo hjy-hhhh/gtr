@@ -1,0 +1,6 @@
+# Project exclude paths
+/mavenTest/target/
+/out/
+/shiro/target/
+/shiroJM/target/
+/shiroSq/target/
